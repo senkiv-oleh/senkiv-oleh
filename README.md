@@ -6,9 +6,18 @@ Frontend developer | React, JavaScript, TypeScript
 
 Frontend Developer with 3+ years of experience in building scalable, responsive, and user-friendly web applications. Proficient in React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, and UI frameworks. Experienced in performance optimization, component-based architecture, testing, and Agile development. Experience in integrating Google APIs and Google Maps API for enhanced application functionality
 
+* React.js, TypeScript, JavaScript (ES6+) – building applications, UI logic, and reusable components.
+* Next.js, Tailwind CSS – server-side rendering, responsive layouts.
+* Redux, Context API, React Hooks – managing application state effectively.
+* HTML5, SCSS, BEM – writing clean and maintainable styles.
+* Testing – Jest, React Testing Library for unit and integration tests.
+* Teamwork – active participation in Scrum teams, code reviews, and solution discussions.
+
+
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [o.senkiv.v@gmail.com](mailto:o.senkiv.v@gmail.com)
 * 🧠  I'm learning React Native, Node.js
+
 
 ### Skills
 
