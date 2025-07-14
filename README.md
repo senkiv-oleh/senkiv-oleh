@@ -13,7 +13,7 @@ Frontend Developer with 3+ years of experience in building scalable, responsive,
 * Testing – Jest, React Testing Library for unit and integration tests.
 * Teamwork – active participation in Scrum teams, code reviews, and solution discussions.
 
-
+ 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [o.senkiv.v@gmail.com](mailto:o.senkiv.v@gmail.com)
 * 🧠  I'm learning React Native, Node.js
